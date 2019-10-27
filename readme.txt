@@ -1,4 +1,8 @@
-Project #4 - BooEdit
+BooEdit
+--------
+
+This was originally a project for ICS45C at UCI
+------------------------------------------------
 
 BooEdit is a primitive text editor with little functionality. It doesn't save
 files (yet) or open them (yet). Below are the commands you can issue in this format:
